@@ -121,7 +121,7 @@ pip install numpy pandas matplotlib seaborn scipy statsmodels
 
 ```bash
 # Clone the repo
-git clone https://github.com/<popolome>/SIA-Conversion-AB-Test.git
+git clone https://github.com/popolome/SIA-Conversion-AB-Test.git
 cd SIA-Conversion-AB-Test
 
 # Install dependencies
@@ -155,8 +155,8 @@ Or open directly in **Google Colab** using the badge at the top of this README.
 
 **Your Name**
 
-- GitHub: [@your-username](https://github.com/popolome)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/jun-kit-mak-611b4b108/)
+- GitHub: [Popolome](https://github.com/popolome)
+- LinkedIn: [Jun Kit Mak](https://www.linkedin.com/in/jun-kit-mak-611b4b108/)
 
 ---
 
